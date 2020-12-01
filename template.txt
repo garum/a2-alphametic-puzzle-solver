@@ -1,0 +1,16 @@
+assign(domain_size, 11).
+assign(max_models, -1).
+set(arithmetic).
+
+list(distinct).
+{}
+end_of_list.
+
+formulas(assumptions).
+
+
+{}
+
+{}
+
+end_of_list.	
